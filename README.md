@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Samdzaka
-- 👀 I’m interested in Android development, Java, Kotlin ...
+- 👀 I’m interested in Android development; Kotlin, Java, Frontend development; JavaScript, HTML, CSS, React ...
 - 🌱 I’m currently learning Android development
 - 💞️ I’m looking to collaborate on Android development, Java, Kotlin
 
